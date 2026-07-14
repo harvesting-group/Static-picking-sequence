@@ -51,7 +51,6 @@ project_root/
 ├── MOP_SA.py                  # MOP-SA optimizer and executable entry point
 ├── evaluation.py              # Batch evaluation, visualization, metrics, and output export
 ├── README.md
-├── fit_5.8/                   # Default test-image directory
 └── weights/
     ├── Difficulty/
     │   └── best_model.pt      # HDS regression checkpoint
