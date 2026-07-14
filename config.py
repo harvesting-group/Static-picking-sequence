@@ -15,7 +15,7 @@ YOLO_AUGMENT = False
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
 BASE_DIR = os.path.abspath(os.environ.get("MOP_BASE_DIR", PROJECT_DIR))
 TEST_IMAGE_DIR = os.path.abspath(
-    os.environ.get("MOP_TEST_IMAGE_DIR", os.path.join(BASE_DIR, "fit_5.8"))
+    os.environ.get("MOP_TEST_IMAGE_DIR", os.path.join(BASE_DIR, "test_image"))
 )
 OUTPUT_ROOT_DIR = os.path.abspath(
     os.environ.get("MOP_OUTPUT_ROOT_DIR", os.path.join(BASE_DIR, "outputs"))
