@@ -55,7 +55,8 @@ project_root/
     │   └── best_model.pt      # HDS regression checkpoint
     └── Detection_segmentation/
         └── best.pt            # YOLOv11 detection/segmentation checkpoint
-                   
+
+weights Link：https://1drv.ms/f/c/e68b602748988e28/IgCUTFiuPjttTrADiq96xGcGAUUCfTJW3a8T9PF6fpqgpWM?e=53yyRR                   
 
 ```
 
