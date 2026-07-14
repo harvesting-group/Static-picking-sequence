@@ -52,12 +52,12 @@ project_root/
 ├── evaluation.py              # Batch evaluation, visualization, metrics, and output export
 ├── README.md
 ├── fit_5.8/                   # Default test-image directory
-├── weights/
-│   ├── Difficulty/
-│   │   └── best_model.pt      # HDS regression checkpoint
-│   └── Detection_segmentation/
-│       └── best.pt            # YOLOv11 detection/segmentation checkpoint
-└── outputs                   
+└── weights/
+    ├── Difficulty/
+    │   └── best_model.pt      # HDS regression checkpoint
+    └── Detection_segmentation/
+        └── best.pt            # YOLOv11 detection/segmentation checkpoint
+                   
 
 ```
 
