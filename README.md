@@ -49,7 +49,6 @@ project_root/
 ├── rolling_replanning.py      # Algorithm-independent rolling global re-planning
 ├── MOP_GA.py                  # MOP-GA optimizer and executable entry point
 ├── MOP_SA.py                  # MOP-SA optimizer and executable entry point
-├── evaluation.py              # Batch evaluation, visualization, metrics, and output export
 ├── README.md
 └── weights/
     ├── Difficulty/
